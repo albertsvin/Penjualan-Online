@@ -1,0 +1,37 @@
+================================================================================
+                                SOPI INDONESIA
+                                  NOTA PESANAN
+================================================================================
+Nama Pembeli        : Albert Saputra Angelo        Nama Penjual : Eagle Clothing
+Alamat Pembeli      : Jakarta, Sukajadi, linggarjati, RT 03/RW 01, 09827
+No. Handphone       : 089522223827                
+
+--------------------------------------------------------------------------------
+No. Pesanan         : ORD-1
+Tanggal Transaksi   : 05/10/2026 16:39:12 WIB
+Metode Pembayaran   : SopiPay
+Jasa Kirim          : Reguler
+--------------------------------------------------------------------------------
+
+RINCIAN PESANAN:
+--------------------------------------------------------------------------------
+No  Produk                            Variasi      Harga      Qty   Subtotal
+--------------------------------------------------------------------------------
+1   Kaos I Love My Poodle             Kaos,S       Rp60000    1     Rp60000
+2   Sepatu Kasual                     Uk.36        Rp150000   2     Rp300000
+3   Kaos Kaki Premium                 Hitam,M (21  Rp35000    1     Rp35000
+4   Kaos Kaki Premium                 Abu-abu,XS   Rp35000    1     Rp35000
+5   Topi Polos Kekinian               Baseball Ca  Rp15000    1     Rp15000
+--------------------------------------------------------------------------------
+                                              Subtotal          : Rp445000
+                                              Total Kuantitas   : 6 produk
+
+                                              ----------------------------------
+                                              Subtotal Pesanan  : Rp445000
+                                              Ongkos Kirim      : Rp84000
+                                              Biaya Layanan     : Rp1500
+                                              ----------------------------------
+                                              TOTAL PEMBAYARAN  : Rp530500
+================================================================================
+               Biaya-biaya yang ditagihkan sudah termasuk PPN
+================================================================================
